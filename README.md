@@ -1,2 +1,2 @@
-# FinTechChallenge-1
+# Loan Analyzer
 FinTech Module Challenge #1
